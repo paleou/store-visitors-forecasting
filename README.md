@@ -18,5 +18,4 @@ This project can also be deployed and automated on GCP:
 - Vertex AI → Train and serve Nixtla models in a managed environment.
 - Airflow → Orchestrate periodic runs.
 
-Author: Panagiotis Leousis
-Date: 31/10/2025
+Author: Panagiotis Leousis (31/10/2025)
